@@ -11,7 +11,13 @@ namespace MOOPLAB1
         static void Main(string[] args)
         {
             int a = 5;
-            int b = int.MaxValue;
+            int b = 10;
         }
+
+        public static int sum(int a, int b)
+        {
+            
+        }
+            
     }
 }
