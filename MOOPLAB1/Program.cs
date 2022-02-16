@@ -16,7 +16,9 @@ namespace MOOPLAB1
 
         public static int sum(int a, int b)
         {
-            
+            ++a;
+            b++;
+            return a + b;
         }
             
     }
